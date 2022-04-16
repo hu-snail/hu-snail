@@ -1,4 +1,8 @@
 ## Hi 我是Hu-snail 👋
+- 🔭 就职于多彩贵州网前端研发
+- 🌱 作品：<a href="https://hu-snail.github.io/vue3-resource/" target="_blank">vue3资源库</a> ｜ <a href="https://hu-snail.github.io/vue3-admin-element-template/dist/index.html#/index" target="_blank">vue3-admin-template</a>
+- 💬 wx:hl1217437592
+- 📫 掘金: <a href="https://juejin.cn/user/1662117310637757" target="_blank">蜗牛前端</a>
 
 ## 今年汇总 ✨
 
